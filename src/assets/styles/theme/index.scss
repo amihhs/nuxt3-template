@@ -1,0 +1,21 @@
+@import './var/light.scss';
+@import './var/dark.scss';
+@import './fn.scss';
+
+html.light {
+  @each $name,
+  $color in $light {
+    #{$name}: #{$color};
+  }
+}
+
+html.dark {
+  @each $name,
+  $color in $dark {
+    #{$name}: #{$color};
+  }
+}
+html {
+  background:  var(--color-bg-main);
+  color: var(--color-text-900);
+}

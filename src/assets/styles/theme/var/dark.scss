@@ -1,0 +1,24 @@
+
+$apache: 0.7;
+$dark:(
+  --color-bg-main: #222222,
+  
+  --color-primary: rgba($color: #3B82F6, $alpha: $apache),
+  --color-info: rgba($color: #00afef, $alpha:  $apache),
+  --color-success: rgba($color: #22C55E, $alpha:  $apache),
+  --color-error: rgba($color: #EF4444, $alpha:  $apache),
+  --color-danger: rgba($color: #EF4444, $alpha:  $apache),
+  --color-warn: rgba($color: #F97316, $alpha: $apache),
+  --color-warning: rgba($color: #F97316, $alpha: $apache),
+  --color-default: #A1A1AA,
+
+  --color-text-900: #ffffff,
+  --color-text-800: #F8FAFC,
+  --color-text-700: #F3F4F6,
+  --color-text-600: #E5E7EB,
+  --color-text-500: #D4D4D8,
+  --color-text-400: #A1A1AA,
+  --color-text-300: #71717A,
+  --color-text-200: #52525B,
+  --color-text-100: #3F3F46,
+)

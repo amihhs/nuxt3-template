@@ -1,0 +1,53 @@
+{
+  "scss.lint.unknownAtRules": "ignore",
+  "css.lint.unknownAtRules": "ignore",
+  "prettier.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.associations": {
+    "*.css": "postcss"
+  },
+  "editor.formatOnSave": false,
+  "cSpell.words": [
+    "antd",
+    "aomao",
+    "Attributify",
+    "Backcolor",
+    "Cascader",
+    "fontcolor",
+    "Fontfamily",
+    "fontsize",
+    "lightblock",
+    "Lineheight",
+    "moremark",
+    "nathanchase",
+    "ohmyfetch",
+    "orderedlist",
+    "pageview",
+    "paintformat",
+    "persistedstate",
+    "Popconfirm",
+    "Popselect",
+    "prefixwrap",
+    "qcwp",
+    "Removeformat",
+    "safelist",
+    "Selectall",
+    "Tagify",
+    "tasklist",
+    "Toooltip",
+    "tosend",
+    "unorderedlist",
+    "unplugin",
+    "vant",
+    "vitesse",
+    "vitest",
+    "vueuc",
+    "wangeditor",
+    "webext"
+  ],
+  "search.useIgnoreFiles": false,
+  "search.useGlobalIgnoreFiles": false,
+  "search.useParentIgnoreFiles": false
+}
